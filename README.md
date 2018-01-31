@@ -150,6 +150,32 @@ Here, we have installed webpack-dev-server as a development dependency, so I inc
 So that when you type npm start then, It will start development server. When you change any .js file, then the server will automatically
 restart. No need to manually do it.
 
+before you start with npm start 
+edit your package.json file by removing the second scripts and leaving only 
+ "scripts": {
+    "start": "webpack-dev-server"
+  },
+  
+  else you'll get a Start script missing error when running npm start
+
+after that install your javascript babelrc plugins with
+npm install --save-dev babel-preset-es2015
+
+and then type
+{
+  "presets": ["es2015"]
+}
+
+into your .babelrc file and save 
+
+then you can Run the following command.
+
+npm start
+It will start at this URL: http://localhost:8080/
+
+You can see on the screen:  your message typed in your index.html file
+
+
 
 
 
