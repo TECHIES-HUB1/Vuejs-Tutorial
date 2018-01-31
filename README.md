@@ -176,7 +176,7 @@ It will start at this URL: http://localhost:8080/
 You can see on the screen:  your message typed in your index.html file
 
 
-
+read the Vuejs TUTORIAL.pdf file to have a full understanding
 
 
 
