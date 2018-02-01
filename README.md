@@ -179,7 +179,12 @@ You can see on the screen:  your message typed in your index.html file
 read the Vuejs TUTORIAL.pdf file to have a full understanding
 
 
+Github Code: https://github.com/TECHIES-HUB1/Vuejs-Tutorial/blob/master/VuejsTutorial.zip
 
-
+Steps:
+Download the repository.
+Go to the project folder and type npm install command.
+Now, run the second command called “npm start“.
+Switch to the browser URL: http://localhost:8080
 
 
