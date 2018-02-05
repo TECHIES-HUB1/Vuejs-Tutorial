@@ -165,8 +165,8 @@ Vuejs Tutorial With Example is today’s main topic. Vue.js is quite famous fron
       read the Vuejs TUTORIAL.pdf file to have a full understanding
 
 
-### Github Code: https://github.com/TECHIES-HUB1/Vuejs-Tutorial/blob/master/VuejsTutorial.zip
-### Github Code: https://github.com/TECHIES-HUB1/Vuejs-Tutorial/blob/master/VueTutorial-master.zip
+### Github Code: https://github.com/TECHIES-HUB1/Vuejs-Tutorial/tree/master/VueTutorial-
+
       Steps:
       Download the repository.
       Go to the project folder and type npm install command.
